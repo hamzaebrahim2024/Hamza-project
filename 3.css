@@ -1,0 +1,20 @@
+body{
+    background-image: url(hamza/Fractal-burst-background-Graphics-112759330-1-580x387.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    direction: rtl;
+    color: #eeff00;
+    text-shadow: 2px 2px 5px rgb(255, 0, 0);
+    min-height: 100vh;
+
+}
+h1{
+    font-size: 45px; 
+
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}

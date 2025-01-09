@@ -1,0 +1,77 @@
+.momm{
+    color: #ff0000;
+    background-color: gold;
+    border-radius: 5px;
+    
+}
+.momm:hover{
+    color: #4200dd;
+    background-color: #ff0000;
+}
+.momm:active{
+    color: #ffd900;
+    background-color: cyan;
+
+}
+body{
+    background-image: url(hamza/Fractal-burst-background-Graphics-112759330-1-580x387.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    border-radius: 5px;
+    min-height: 100vh;
+
+}
+h1{
+    color: #00e1ff;
+    width: auto;
+    font-size: 45px;
+    text-shadow: 2px 2px 5px rgba(255, 251, 30, 0.733);
+}
+    
+#mo:hover{
+cursor: wait;
+
+}
+
+.mom{
+    color: gold;
+    background-color: #ff0000;
+    border-radius: 5px;
+}
+.mom:hover{
+    color: #00b7ff;
+    background-color: blueviolet;
+}
+.mom:active{
+    color: #37ec00;
+    background-color: deeppink;
+}
+.mo{
+    color: gold;
+    background-color: #ff0000;
+    border-radius: 5px;
+}
+.mo:hover{
+    color: #00b7ff;
+    background-color: blueviolet;
+}
+.mo:active{
+    color: #37ec00;
+    background-color: deeppink;
+}
+button{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 5px;
+}
+#buttonDiv{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    text-align: center;
+}
+#buttonDiv .momm {
+    width: 20%;
+
+}
+
