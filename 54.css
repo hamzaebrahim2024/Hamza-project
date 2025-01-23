@@ -1,11 +1,22 @@
 #hkgjghjkjgh{
     background-color: blue;
-    display: flex;
-    justify-content: space-evenly;
+    height: 100px;
+    width: 100px;
+    animation-name: anmi1;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
-.hg{
-    background-color: blueviolet;
-    color: azure;
-    width: 10%;
-    text-align: center;
+@keyframes anmi1 {
+    from{
+        background-color: rgb(117, 25, 25);
+    }
+    to{
+        background-color: black;
+    }
+    
 }
+#fghf{
+    color: blue;
+}
+
