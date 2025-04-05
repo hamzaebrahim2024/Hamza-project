@@ -1,18 +1,21 @@
 #hkgjghjkjgh{
     background-color: blue;
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     animation-name: anmi1;
-    animation-duration: 1s;
+    animation-duration: 10s;
     animation-iteration-count: infinite;
-    animation-direction: alternate;
+    animation-timing-function: linear;
+    
+    border-radius: 50%;
+    border: 50px dashed  cyan;
 }
 @keyframes anmi1 {
-    from{
-        background-color: rgb(117, 25, 25);
-    }
+   
+    
     to{
-        background-color: black;
+        transform: rotatex(-360deg);
+        transform: rotatey(-360deg);
     }
     
 }
